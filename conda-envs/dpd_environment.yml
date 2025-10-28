@@ -16,4 +16,4 @@ dependencies:
   - pip:
       - build
       - anytree
-      
+      - periodictable
